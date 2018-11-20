@@ -1768,7 +1768,7 @@ body {
 .cid-r9b7nRICCz {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1271.jpg");
 }
 .cid-r9b7nRICCz .mbr-figure {
   margin: 0 auto;
@@ -1806,7 +1806,7 @@ body {
 }
 .cid-r9bsfRRFT5 {
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-r9bsfRRFT5 .line {
@@ -1850,7 +1850,7 @@ body {
 }
 .cid-r9bsyFiFqM {
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-r9bsyFiFqM .line {
@@ -1871,25 +1871,44 @@ body {
     width: 100% !important;
   }
 }
-.cid-r9bumRU2rn {
+.cid-r9X2hB5hzM {
   padding-top: 0px;
-  padding-bottom: 0px;
+  padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-r9bumRU2rn h4 {
+.cid-r9X2hB5hzM .card-img {
+  background-color: #fff;
+}
+.cid-r9X2hB5hzM .card-box {
+  padding: 2rem;
+}
+.cid-r9X2hB5hzM h4 {
   font-weight: 500;
   margin-bottom: 0;
   text-align: left;
 }
-.cid-r9bumRU2rn p {
-  color: #767676;
+.cid-r9X2hB5hzM p {
   text-align: left;
 }
-.cid-r9bumRU2rn .card-box {
-  padding-top: 2rem;
+.cid-r9X2hB5hzM .mbr-text {
+  color: #767676;
 }
-.cid-r9bumRU2rn .card-wrapper {
+.cid-r9X2hB5hzM .card-wrapper {
   height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-r9X2hB5hzM .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-r9X2hB5hzM .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
 }
 .cid-r9gKe3RZnp {
   padding-top: 30px;
@@ -2951,9 +2970,9 @@ body {
   }
 }
 .cid-r9cmOIFIpf {
-  padding-top: 90px;
+  padding-top: 75px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1382.jpg");
 }
 @media (min-width: 992px) {
   .cid-r9cmOIFIpf .mbr-figure {
